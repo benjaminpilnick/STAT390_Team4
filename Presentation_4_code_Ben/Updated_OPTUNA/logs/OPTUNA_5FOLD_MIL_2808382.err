@@ -1,0 +1,6 @@
+[I 2026-03-14 10:31:47,103] A new study created in RDB with name: mil_5fold_sobol10_tpe64
+  0%|          | 0/64 [00:00<?, ?it/s]/projects/e32998/env/lib/python3.12/site-packages/optuna/trial/_trial.py:658: UserWarning: Fixed parameter 'learning_rate' with value 0.000991317892040907 is out of range for distribution FloatDistribution(high=0.0002, log=True, low=1e-05, step=None).
+  optuna_warn(
+/projects/e32998/env/lib/python3.12/site-packages/optuna/trial/_trial.py:658: UserWarning: Fixed parameter 'class_weight_benign' with value 3.0566442012786865 is out of range for distribution FloatDistribution(high=3.0, log=False, low=1.5, step=None).
+  optuna_warn(
+slurmstepd: error: *** JOB 2808382 ON qnode3089 CANCELLED AT 2026-03-14T10:33:22 ***
