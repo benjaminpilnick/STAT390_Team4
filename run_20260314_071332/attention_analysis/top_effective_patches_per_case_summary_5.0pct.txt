@@ -1,0 +1,277 @@
+TOP 5.0% EFFECTIVE PATCHES PER CASE
+============================================================
+
+Case 5:
+  True label: 1
+  Pred label: 1
+  # total patches: 503
+  # top patches (per-case): 25
+  # total slices: 4
+  slice ratio: 0.2500
+  Top-patch counts by stain:
+    melan: 25
+  Top-patch counts by (stain, slice_idx):
+    (melan, slice 0): 25
+
+Case 14:
+  True label: 1
+  Pred label: 1
+  # total patches: 810
+  # top patches (per-case): 40
+  # total slices: 11
+  slice ratio: 0.1818
+  Top-patch counts by stain:
+    melan: 40
+  Top-patch counts by (stain, slice_idx):
+    (melan, slice 1): 21
+    (melan, slice 2): 19
+
+Case 19:
+  True label: 1
+  Pred label: 1
+  # total patches: 1744
+  # top patches (per-case): 87
+  # total slices: 11
+  slice ratio: 0.5455
+  Top-patch counts by stain:
+    h&e: 86
+    melan: 1
+  Top-patch counts by (stain, slice_idx):
+    (h&e, slice 0): 3
+    (h&e, slice 1): 32
+    (h&e, slice 2): 32
+    (h&e, slice 3): 2
+    (h&e, slice 4): 17
+    (melan, slice 2): 1
+
+Case 25:
+  True label: 0
+  Pred label: 1
+  # total patches: 467
+  # top patches (per-case): 23
+  # total slices: 5
+  slice ratio: 0.6000
+  Top-patch counts by stain:
+    h&e: 13
+    sox10: 10
+  Top-patch counts by (stain, slice_idx):
+    (h&e, slice 1): 12
+    (h&e, slice 2): 1
+    (sox10, slice 0): 10
+
+Case 27:
+  True label: 0
+  Pred label: 0
+  # total patches: 756
+  # top patches (per-case): 37
+  # total slices: 11
+  slice ratio: 0.8182
+  Top-patch counts by stain:
+    h&e: 13
+    melan: 10
+    sox10: 14
+  Top-patch counts by (stain, slice_idx):
+    (h&e, slice 0): 1
+    (h&e, slice 2): 10
+    (h&e, slice 3): 2
+    (melan, slice 0): 3
+    (melan, slice 1): 3
+    (melan, slice 2): 3
+    (melan, slice 3): 1
+    (sox10, slice 0): 5
+    (sox10, slice 1): 9
+
+Case 36:
+  True label: 0
+  Pred label: 0
+  # total patches: 609
+  # top patches (per-case): 30
+  # total slices: 9
+  slice ratio: 0.5556
+  Top-patch counts by stain:
+    h&e: 3
+    melan: 3
+    sox10: 24
+  Top-patch counts by (stain, slice_idx):
+    (h&e, slice 1): 3
+    (melan, slice 0): 1
+    (melan, slice 1): 2
+    (sox10, slice 0): 20
+    (sox10, slice 1): 4
+
+Case 44:
+  True label: 1
+  Pred label: 1
+  # total patches: 933
+  # top patches (per-case): 46
+  # total slices: 6
+  slice ratio: 0.1667
+  Top-patch counts by stain:
+    melan: 46
+  Top-patch counts by (stain, slice_idx):
+    (melan, slice 1): 46
+
+Case 49:
+  True label: 1
+  Pred label: 1
+  # total patches: 141
+  # top patches (per-case): 7
+  # total slices: 3
+  slice ratio: 0.3333
+  Top-patch counts by stain:
+    melan: 7
+  Top-patch counts by (stain, slice_idx):
+    (melan, slice 0): 7
+
+Case 54:
+  True label: 1
+  Pred label: 1
+  # total patches: 609
+  # top patches (per-case): 30
+  # total slices: 6
+  slice ratio: 0.5000
+  Top-patch counts by stain:
+    h&e: 5
+    melan: 25
+  Top-patch counts by (stain, slice_idx):
+    (h&e, slice 1): 5
+    (melan, slice 0): 10
+    (melan, slice 1): 15
+
+Case 56:
+  True label: 0
+  Pred label: 0
+  # total patches: 424
+  # top patches (per-case): 21
+  # total slices: 6
+  slice ratio: 0.1667
+  Top-patch counts by stain:
+    melan: 21
+  Top-patch counts by (stain, slice_idx):
+    (melan, slice 0): 21
+
+Case 66:
+  True label: 1
+  Pred label: 1
+  # total patches: 756
+  # top patches (per-case): 37
+  # total slices: 12
+  slice ratio: 0.3333
+  Top-patch counts by stain:
+    melan: 37
+  Top-patch counts by (stain, slice_idx):
+    (melan, slice 0): 9
+    (melan, slice 1): 7
+    (melan, slice 2): 18
+    (melan, slice 3): 3
+
+Case 72:
+  True label: 1
+  Pred label: 1
+  # total patches: 438
+  # top patches (per-case): 21
+  # total slices: 9
+  slice ratio: 0.4444
+  Top-patch counts by stain:
+    h&e: 6
+    melan: 15
+  Top-patch counts by (stain, slice_idx):
+    (h&e, slice 1): 1
+    (h&e, slice 4): 5
+    (melan, slice 0): 13
+    (melan, slice 1): 2
+
+Case 79:
+  True label: 0
+  Pred label: 1
+  # total patches: 1303
+  # top patches (per-case): 65
+  # total slices: 9
+  slice ratio: 0.7778
+  Top-patch counts by stain:
+    h&e: 38
+    melan: 20
+    sox10: 7
+  Top-patch counts by (stain, slice_idx):
+    (h&e, slice 0): 4
+    (h&e, slice 1): 3
+    (h&e, slice 2): 31
+    (melan, slice 0): 14
+    (melan, slice 2): 6
+    (sox10, slice 1): 4
+    (sox10, slice 2): 3
+
+Case 84:
+  True label: 1
+  Pred label: 0
+  # total patches: 1049
+  # top patches (per-case): 52
+  # total slices: 7
+  slice ratio: 0.1429
+  Top-patch counts by stain:
+    melan: 52
+  Top-patch counts by (stain, slice_idx):
+    (melan, slice 0): 52
+
+Case 90:
+  True label: 0
+  Pred label: 0
+  # total patches: 379
+  # top patches (per-case): 18
+  # total slices: 4
+  slice ratio: 0.5000
+  Top-patch counts by stain:
+    melan: 4
+    sox10: 14
+  Top-patch counts by (stain, slice_idx):
+    (melan, slice 0): 4
+    (sox10, slice 0): 14
+
+Case 92:
+  True label: 1
+  Pred label: 1
+  # total patches: 460
+  # top patches (per-case): 23
+  # total slices: 3
+  slice ratio: 0.6667
+  Top-patch counts by stain:
+    h&e: 16
+    melan: 7
+  Top-patch counts by (stain, slice_idx):
+    (h&e, slice 0): 16
+    (melan, slice 0): 7
+
+Case 98:
+  True label: 1
+  Pred label: 1
+  # total patches: 1164
+  # top patches (per-case): 58
+  # total slices: 5
+  slice ratio: 0.8000
+  Top-patch counts by stain:
+    h&e: 27
+    melan: 30
+    sox10: 1
+  Top-patch counts by (stain, slice_idx):
+    (h&e, slice 0): 4
+    (h&e, slice 1): 23
+    (melan, slice 0): 30
+    (sox10, slice 0): 1
+
+Case 119:
+  True label: 0
+  Pred label: 0
+  # total patches: 487
+  # top patches (per-case): 24
+  # total slices: 5
+  slice ratio: 0.8000
+  Top-patch counts by stain:
+    h&e: 14
+    melan: 9
+    sox10: 1
+  Top-patch counts by (stain, slice_idx):
+    (h&e, slice 1): 12
+    (h&e, slice 2): 2
+    (melan, slice 0): 9
+    (sox10, slice 0): 1
+
