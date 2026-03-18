@@ -1,0 +1,11 @@
+split_id,seed,best_val_loss
+split_1_data_splits_new_01,1,0.08922232480713849
+split_1_data_splits_new_01,2,0.22536236783973132
+split_2_data_splits_new_02,1,0.22901071438450848
+split_2_data_splits_new_02,2,0.25988388126991896
+split_3_data_splits_new_03,1,0.2677065112986479
+split_3_data_splits_new_03,2,0.249024197820625
+split_4_data_splits_new_04,1,0.3398251775713441
+split_4_data_splits_new_04,2,0.3426241196121785
+split_5_data_splits_new_05,1,0.3777164417735644
+split_5_data_splits_new_05,2,0.19745229415715776
