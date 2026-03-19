@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600">
+<rect width="100%" height="100%" fill="white"/>
+<text x="450" y="30" text-anchor="middle" font-size="24" font-family="Arial">Accuracy Variability Across Splits</text>
+<line x1="90" y1="60" x2="90" y2="510" stroke="black" stroke-width="2"/>
+<line x1="90" y1="510" x2="860" y2="510" stroke="black" stroke-width="2"/>
+<line x1="84" y1="510.0" x2="90" y2="510.0" stroke="black"/>
+<text x="80" y="514.0" text-anchor="end" font-size="14" font-family="Arial">0.663</text>
+<line x1="90" y1="510.0" x2="860" y2="510.0" stroke="#dddddd" stroke-width="1"/>
+<line x1="84" y1="420.0" x2="90" y2="420.0" stroke="black"/>
+<text x="80" y="424.0" text-anchor="end" font-size="14" font-family="Arial">0.724</text>
+<line x1="90" y1="420.0" x2="860" y2="420.0" stroke="#dddddd" stroke-width="1"/>
+<line x1="84" y1="330.0" x2="90" y2="330.0" stroke="black"/>
+<text x="80" y="334.0" text-anchor="end" font-size="14" font-family="Arial">0.785</text>
+<line x1="90" y1="330.0" x2="860" y2="330.0" stroke="#dddddd" stroke-width="1"/>
+<line x1="84" y1="240.0" x2="90" y2="240.0" stroke="black"/>
+<text x="80" y="244.0" text-anchor="end" font-size="14" font-family="Arial">0.846</text>
+<line x1="90" y1="240.0" x2="860" y2="240.0" stroke="#dddddd" stroke-width="1"/>
+<line x1="84" y1="150.0" x2="90" y2="150.0" stroke="black"/>
+<text x="80" y="154.0" text-anchor="end" font-size="14" font-family="Arial">0.907</text>
+<line x1="90" y1="150.0" x2="860" y2="150.0" stroke="#dddddd" stroke-width="1"/>
+<line x1="84" y1="60.0" x2="90" y2="60.0" stroke="black"/>
+<text x="80" y="64.0" text-anchor="end" font-size="14" font-family="Arial">0.968</text>
+<line x1="90" y1="60.0" x2="860" y2="60.0" stroke="#dddddd" stroke-width="1"/>
+<line x1="90.0" y1="341.0" x2="90.0" y2="95.3" stroke="black" stroke-width="3"/>
+<line x1="80.0" y1="341.0" x2="100.0" y2="341.0" stroke="black" stroke-width="2"/>
+<line x1="80.0" y1="95.3" x2="100.0" y2="95.3" stroke="black" stroke-width="2"/>
+<circle cx="90.0" cy="218.2" r="5" fill="black"/>
+<text x="90.0" y="538" text-anchor="middle" font-size="14" font-family="Arial">split_1_data_splits_new_01</text>
+<line x1="282.5" y1="479.0" x2="282.5" y2="168.6" stroke="black" stroke-width="3"/>
+<line x1="272.5" y1="479.0" x2="292.5" y2="479.0" stroke="black" stroke-width="2"/>
+<line x1="272.5" y1="168.6" x2="292.5" y2="168.6" stroke="black" stroke-width="2"/>
+<circle cx="282.5" cy="323.8" r="5" fill="black"/>
+<text x="282.5" y="538" text-anchor="middle" font-size="14" font-family="Arial">split_2_data_splits_new_02</text>
+<line x1="475.0" y1="401.4" x2="475.0" y2="91.0" stroke="black" stroke-width="3"/>
+<line x1="465.0" y1="401.4" x2="485.0" y2="401.4" stroke="black" stroke-width="2"/>
+<line x1="465.0" y1="91.0" x2="485.0" y2="91.0" stroke="black" stroke-width="2"/>
+<circle cx="475.0" cy="246.2" r="5" fill="black"/>
+<text x="475.0" y="538" text-anchor="middle" font-size="14" font-family="Arial">split_3_data_splits_new_03</text>
+<line x1="667.5" y1="246.2" x2="667.5" y2="91.0" stroke="black" stroke-width="3"/>
+<line x1="657.5" y1="246.2" x2="677.5" y2="246.2" stroke="black" stroke-width="2"/>
+<line x1="657.5" y1="91.0" x2="677.5" y2="91.0" stroke="black" stroke-width="2"/>
+<circle cx="667.5" cy="168.6" r="5" fill="black"/>
+<text x="667.5" y="538" text-anchor="middle" font-size="14" font-family="Arial">split_4_data_splits_new_04</text>
+<line x1="860.0" y1="341.0" x2="860.0" y2="95.3" stroke="black" stroke-width="3"/>
+<line x1="850.0" y1="341.0" x2="870.0" y2="341.0" stroke="black" stroke-width="2"/>
+<line x1="850.0" y1="95.3" x2="870.0" y2="95.3" stroke="black" stroke-width="2"/>
+<circle cx="860.0" cy="218.2" r="5" fill="black"/>
+<text x="860.0" y="538" text-anchor="middle" font-size="14" font-family="Arial">split_5_data_splits_new_05</text>
+<text x="475.0" y="575" text-anchor="middle" font-size="18" font-family="Arial">Split</text>
+<text x="25" y="285.0" transform="rotate(-90 25 285.0)" text-anchor="middle" font-size="18" font-family="Arial">Test Accuracy</text>
+<line x1="710" y1="70" x2="710" y2="100" stroke="black" stroke-width="3"/>
+<circle cx="710" cy="85" r="5" fill="black"/>
+<text x="730" y="90" font-size="14" font-family="Arial">Range with midpoint</text>
+</svg>
